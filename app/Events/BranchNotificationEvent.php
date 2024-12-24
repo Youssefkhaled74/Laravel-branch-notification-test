@@ -12,7 +12,7 @@ class BranchNotificationEvent
     public $branches;
 
     /**
-     * Create a new event instance..
+     * Create a new event instance...
      *
      * @param \Illuminate\Support\Collection $branches
      */
